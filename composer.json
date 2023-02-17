@@ -5,7 +5,7 @@
 				"jenssegers/blade": "^1.1",
 				"lcobucci/jwt": "^3.2",
 				"emarref/jwt": "1.0.2",
-				"firebase/php-jwt": "^5.0",
+				"firebase/php-jwt": "^6.0",
 				"cboden/ratchet": "^0.4.1"
 		},
 		"autoload": {
